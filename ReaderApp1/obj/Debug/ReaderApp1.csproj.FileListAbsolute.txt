@@ -1,0 +1,10 @@
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\bin\Debug\ReaderApp1.exe.config
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\bin\Debug\ReaderApp1.exe
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\bin\Debug\ReaderApp1.pdb
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\bin\Debug\Microsoft.ServiceBus.dll
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\bin\Debug\Microsoft.ServiceBus.xml
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\obj\Debug\ReaderApp1.csprojResolveAssemblyReference.cache
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\obj\Debug\ReaderApp1.exe
+H:\Projects\ServiceBusTest\ReaderApp1\ReaderApp1\obj\Debug\ReaderApp1.pdb
